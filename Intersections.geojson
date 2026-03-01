@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Intersections",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Hickory Beach Rd", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.699973499260267, 44.539915155436603, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Meadowview Rd.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.506531864451119, 44.284651885153707, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Meadowview Rd.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.548816599529829, 44.274719187785557, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cottingham Rd.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.547431111704554, 44.289039968697899, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cottingham Rd.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.512630987165679, 44.297217843984839, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rodman Dr", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.734635742075781, 44.465004592722877, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rodman Dr.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.740843302310438, 44.463444112857282, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hickory Beach Rd.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.683248609128142, 44.505547306573533, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Crane Bay Rd.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.655739084333504, 44.518336484988971, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Crane Bay Rd.", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -78.648176559606952, 44.503335703558243, 0.0 ] } }
+]
+}
